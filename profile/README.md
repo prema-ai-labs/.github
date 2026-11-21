@@ -6,6 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-premaailabs.tech-6B4EE6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://premaailabs.tech)
 [![MSME Registered](https://img.shields.io/badge/Govt%20of%20India%20MSME-UDYAM--TN--05--0103856-blue?style=for-the-badge)](https://premaailabs.tech/contact)
 [![StartupTN](https://img.shields.io/badge/StartupTN%20SmartCard-STN101331%20(ACE)-green?style=for-the-badge)](https://startuptn.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prema%20AI%20Labs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/prema-ai-labs)
 [![Community](https://img.shields.io/badge/TeamGemini%20Campus-814%2B%20Scholars-amber?style=for-the-badge)](https://premaailabs.tech/about)
 
 </div>
